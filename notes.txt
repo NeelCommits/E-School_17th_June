@@ -1,0 +1,44 @@
+psd to html
+
+fonts
+pt sans 
+bold 
+regular
+
+xxl 1440  -1600 -1800 -2100
+xl  1200
+lg  1024
+
+md  768
+
+sm  576
+col 320
+
+font-family: 'PT Sans', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Ubuntu', sans-serif;
+
+color
+black #010101
+grey #898989
+yellow #fcdb00
+
+
+xxl-xl-lg   md    sm-col
+
+header----
+  		xxl xl lg    md    sm col
+menu 		22		 22		
+
+slider
+
+padding------
+		  xxl xl lg    md    sm col
+
+header 
+top bottom 20
+
+space- padding
+font-size  - size
+alignment
+order  
